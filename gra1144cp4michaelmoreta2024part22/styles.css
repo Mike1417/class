@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body {
+    margin: 0;
+    background-color: #FDF784;
+    font-family: "Akaya Telivigala", system-ui;
+    background-size: cover;
+}
+wrapper {
+    width: 1200px;
+    margin: auto;
+    display: block;
+    background-color: rgba(255,255,255,0.50);
+}
+h1 {
+    padding: 20px;
+    margin: 0;
+}
+nav {
+    background-color: rgba(17,0,196,1.00);
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+li {
+    display: inline-block;
+    padding: 20px 30px;
+    color: rgba(252,249,249,1.00);
+}
+li:hover {
+    background-color: rgba(233,3,232,1.00);
+}
+main {
+    height: 650px;
+}
+footer {
+    padding: 30px;
+}
